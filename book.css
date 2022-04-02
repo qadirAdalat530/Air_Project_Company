@@ -1,0 +1,92 @@
+.catag{margin-left:4px;}
+
+#footer{background-color:rgb(11,33,44);
+position:absolute;
+width:1350px;
+height:200px;
+}
+#footer .foot{float:left;
+width:450px;
+height:200px;
+position:relative;
+}
+#footer{
+position:absolute;
+left:0px;}
+
+li{font-size:25px;}
+
+
+#spec #jender{background-color:rgb(11,22,33)border: 1px solid black;
+outline-style: double;
+outline-color: green;}
+#spec #dir{background-color:rgb(11,44,55);
+border: 1px solid black;
+outline-style: double;
+outline-color: green;
+height:230px;
+width:400px;
+}
+
+form{margin-top:60px;}
+#info,#spec{float:left;
+}
+
+#spec{margin-left:50px;
+
+
+
+}
+
+#spec input{position:absolute;
+;
+left:580px;}
+
+#info{margin-left:100px;
+margin-top:12px;
+
+background-color:pink;
+width:350px;
+height:280px;
+}
+
+#info input{position:absolute;
+left:100px;
+margin-left:120px;}
+
+
+body{margin-top:20px;}
+
+
+div#banner{background-color:rgb(22,44,66);
+margin-left:100px;
+border: 1px solid black;
+outline-style: double;
+outline-color: green;
+text-decoration:none;
+width:1100px;
+height:80px}
+
+a:hover{background-color:blue;
+text-decoration: none;
+border-radius:4px;}
+
+
+
+a{color:red;
+font-size:40px;
+position:relative;
+top:5px;}
+
+li{display:inline;
+margin:50px;}
+
+form select{display:inline;
+flout:left;}
+
+form p{display:inline}
+body{background-image:url("hh.jpg")}
+div form input{position:absolute;
+left:100px;
+}
+.f{color:rgb(33,55,77);}
